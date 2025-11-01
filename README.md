@@ -4,9 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/amirulhazym) [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=figma)](https://amirulhazym.framer.ai) [![Email](https://img.shields.io/badge/Email-Contact-orange?logo=gmail)](mailto:amirulhazym@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/amirulhazym)
 
 ## About Me
-Self-driven AI/ML Engineer with hands-on experience building and deploying full-stack AI applications—from API-driven systems integrating LLMs to automated MLOps workflows using GitHub Actions and AWS SAM. Bridging creative design roots (4+ years) with tech, I excel at turning ML models into production-ready products.
+An ambitious self-directed AI Engineer who has proactively transitioned from an Electronic Engineeringbackground to architect, build, and deploy production-grade, end-to-end AI systems. My portfoliodemonstrates a proven ability to engineer complex, API-driven applications, implement advanced RAGpipelines with quantitative performance validation, and automate MLOps pipeline with GitHub Actions
+(GHA), across multi-cloud environments including AWS and GCP.
+
 "observe . vision . improvise" is my own main principle since 2019 that i used in solving ANYthings!
-I'm now open to opportunities in Malaysia/Singapore. 📍 Malaysia/Singapore
+I'm now open to opportunities in Malaysia/Singapore.
+📍 Malaysia/Singapore
 
 **Education**: Bachelor's in Electrical & Electronic Engineering (Computer Engineering Major), Universiti Teknologi Malaysia (Graduated Feb 2025).  
 **Final Year Project**: Enabling Smart Faculty Systems Through AI Integration.  
@@ -89,7 +92,7 @@ Continuous upskilling in AI/ML—full details on portfolio.
 
 ## Activities & Initiatives
 - **Authoring Prompt Engineering Guide**: ‘Prompt Sempurna: Panduan Asas Berkomunikasi dengan AI’—beginner guide on principles, techniques, use cases, and ethics for tools like ChatGPT, Gemini, Grok.
-- **No-Code & Vibe-Coding Exploration**: Hands-on with n8n (automation), AI agents (Genspark, Manus), and fullstack-tools (z.ai GLM 4.6, Emergent AI, Cline).
+- **No-Code & Vibe-Coding Exploration**: Hands-on with n8n (workflow automation), autonomous agents (Genspark, Manus), and vibe-coding tools (Gemini CLI, Qwen Code CLI, Cline, Z.ai GLM 4.6, Emergent AI).
 - **Future Platform**: Own domain MyIntelligence.my for AI/ML content and showcases.
 
 References available upon request. Let's collaborate on impactful AI projects! 🚀
